@@ -1,0 +1,9 @@
+# Large data files
+*.xlsx
+*.zip
+GilbertLabWashU*
+*.sas
+*.R
+
+# System files
+.DS_Store
